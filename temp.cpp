@@ -9,5 +9,6 @@ int main(){
         cin>>N;
         cout<<N<<"\n";
         cout<<N+2<<"\n";
+        cout<<N+3<<"\n";
     }
 }
