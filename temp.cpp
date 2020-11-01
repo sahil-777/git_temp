@@ -8,5 +8,6 @@ int main(){
         int N;
         cin>>N;
         cout<<N<<"\n";
+        
     }
 }
