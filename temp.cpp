@@ -12,5 +12,6 @@ int main(){
         cout<<N+3<<"\n";
         cout<<N+4<<"\n";
         cout<<N+5<<"\n";
+        cout<<N+6<<"\n";
     }
 }
