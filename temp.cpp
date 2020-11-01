@@ -10,5 +10,7 @@ int main(){
         cout<<N<<"\n";
         cout<<N+2<<"\n";
         cout<<N+3<<"\n";
+        cout<<N+4<<"\n";
+        
     }
 }
