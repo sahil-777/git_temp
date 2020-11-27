@@ -7,6 +7,6 @@ int main(){
     while(T--){
         int N;
         cin>>N;
-        cout<<N<<"\n"; 
+        cout<<N+N<<"\n"; 
     }
 }
